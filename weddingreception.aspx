@@ -1,0 +1,280 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Modern Buffet Menus</title><meta name="Keywords" content="modern wedding buffets, kansas city, caterers, catering, wedding catering, summer wedding, fall wedding, winter wedding, wedding food, wedding menu ideas, best wedding caterer" /><meta name="Description" content="Deco loves weddings.  Let us help make your special day perfect by providing you with unmatched customer service, made from scratch menus, and artistic presentation.  " />
+	
+	<link href="http://cdn1.officelivecontent.com/2.02.4527.0/WebHosting/_layouts/1033/wh/stylesV2/masterroot.css" type="text/css" rel="stylesheet" />
+
+	
+	<link href="http://cdn1.officelivecontent.com/2.02.4527.0/WebHosting/_layouts/1033/wh/stylesV2/tables.css" type="text/css" rel="stylesheet" />
+	
+	
+	
+	<link type="text/css" rel="stylesheet" href="theme.css" />
+	<style type="text/css"> </style>
+	
+</head>
+<body>
+
+<form name="aspnetForm" method="post" action="weddingreception.aspx" id="aspnetForm">
+<input type="hidden" name="MSO_PageHashCode" id="MSO_PageHashCode" value="861" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMGRkcl7dYh+40hAtf81tcF46W+CqSYM=" />
+
+	<table cellspacing="0" class="MS_MasterFrame" cellpadding="0" border="0">
+		<tr>
+			<td id="IWS_WH_Elem_GlobalLinks" class="MS_MasterGlobalLinks">
+				
+			</td>
+		</tr>
+		<tr >
+			<td id="IWS_WH_Elem_Header" class="MS_MasterHeader">
+				<TABLE cellSpacing="0" cellPadding="0" width="780" border="0" class="MSC_SiteWidth">
+  <TR>
+    <TD width="147" class="BG_Light"><img src="chOriginal/CustomImage/1b_CustomColorScheme_t11.jpg?id=1269622133950"></TD>
+    <td class="BG_Light" valign="middle" align="left" width="65%" style="padding:0px 0px 0px 20px">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td align="left">
+            <h1 id="IWS_WH_Elem_SiteTitle" class="MSC_HeaderText F_Dark" style="padding:0px;margin:0px"><span style="font-weight: normal; font-size: 24pt; color: #ffffff; font-style: normal; font-family: Arial; text-decoration: ">Deco Catering</span></h1>
+          </td>
+        </tr>
+        <tr>
+          <td align="left">
+            <h4 id="IWS_WH_Elem_SiteDescription" class="MSC_HeaderDescription F_Dark"><span style="font-weight: normal; font-size: 14pt; color: #ffffff; font-style: normal; font-family: Arial; text-decoration: ">Fresh + Simple = Delicious</span></h4>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <TD width="35%" class="BG_Light" align="left" background="chOriginal/CustomImage/2_CustomColorScheme_t11.jpg?id=1269622133950"></TD>
+  </TR>
+</TABLE>
+			</td>
+		</tr>
+		<tr style="display:none">
+			<td id="IWS_WH_Elem_TopNav" class="MS_MasterPrimaryNav">
+				
+			</td>
+		</tr>
+		<tr> 
+			<td>
+			<table cellspacing="0" cellpadding="0" border="0" style="width:100%"> <tr>
+				<td id="IWS_WH_Elem_LeftNav" nowrap="true" class="MS_MasterLeftNav" style="width:150px" >
+					<table cellpadding="0" cellspacing="0" class="MSC_PrimaryNavFrame">
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./default.aspx" class="MSC_PrimaryNavLink">Home</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./contactus.aspx" class="MSC_PrimaryNavLink">Contact Us</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame-On"><a href="./weddings.aspx" class="MSC_PrimaryNavLink-On">Weddings</a><table cellpadding="0" cellspacing="0" class="MSC_SecondaryNavFrame">
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame-On"><a href="./weddingreception.aspx" class="MSC_SecondaryNavLink-On">Modern Buffet Menus</a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./HeavyAppetizerReception.aspx" class="MSC_SecondaryNavLink">Heavy Appetizer Reception</a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./event.aspx" class="MSC_SecondaryNavLink">Chef Action Stations</a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./brunch.aspx" class="MSC_SecondaryNavLink">Brunch</a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./Servicelevel.aspx" class="MSC_SecondaryNavLink">Service Options</a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./greenweddings.aspx" class="MSC_SecondaryNavLink">Green Weddings </a></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavTopSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavBottomSpace"></td>
+        </tr>
+        <tr>
+          <td class="MSC_SecondaryNavLinkFrame"><a href="./resources.aspx" class="MSC_SecondaryNavLink">Planning Resources</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./DecoFoodTruck.aspx" class="MSC_PrimaryNavLink">Deco Street Eats</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./corporate.aspx" class="MSC_PrimaryNavLink">Corporate</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./social.aspx" class="MSC_PrimaryNavLink">Social</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./sustainablecatering.aspx" class="MSC_PrimaryNavLink">Sustainable Catering</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./testimonials.aspx" class="MSC_PrimaryNavLink">Testimonials</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./faq.aspx" class="MSC_PrimaryNavLink">FAQ</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./aboutus.aspx" class="MSC_PrimaryNavLink">About Us</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./blog.aspx" class="MSC_PrimaryNavLink">Blog</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavLinkFrame"><a href="./Vendorswelike.aspx" class="MSC_PrimaryNavLink">Vendors we like</a></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavTopSpace"></td>
+  </tr>
+  <tr>
+    <td class="MSC_PrimaryNavBottomSpace"></td>
+  </tr>
+</table>
+				</td>
+				<td class="MS_MasterBody">
+					<div id="IWS_WH_Elem_Content" class="MSC_Body">
+						<div id="IWS_WH_ZoneRowContainer"><table class="MS_WH_ZoneRow"><tbody><tr><td style="WIDTH: 1%" colspan="1" rowspan="1" class="MS_WH_ZoneSpacing"/><td valign="top" style="WIDTH: 98%" colspan="1" rowspan="1"><div class="MS_WH_ZoneContent" id="IWS_WH_Zone1"><p class="MsoNormal"><b style="mso-bidi-font-weight: normal"><hr/>Elegant Buffet Options  <p/></b></p><p class="MsoNormal"><i style="mso-bidi-font-style: normal">These options are presented beautifully on an elegant buffet to wow your guests eyes &amp; their taste buds. Contact Courtney today at 913.262.2816 or send her an email at <a href="mailto:courtney@decocateringkc.com">courtney@decocateringkc.com</a> to schedule a consultation. <hr/><p/></i></p><p class="MsoNormal"/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial">Your choice of 2 entrees plus two side dishes.<span style="mso-spacerun: yes">  </span>Served with our signature mixed greens &amp; sweet vinaigrette and fresh baked dinner rolls. </span></p><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"> </p><p/><p/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial">Option 1 <p/></span></p><ul><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Pork Tenderloin with Savory Honey Mustard Glaze</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Chicken Piccata (lemon, butter, &amp; caper sauce)</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Braised Beef au jus</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Bacon Topped Meatloaf with Red Wine Reduction</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Spicy Tilapia with Garlic Aioli</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Three Cheese Ravioli with House Made Marinara <p/></span></div></li></ul></div><ul/><p style="MARGIN: 0in 0in 0pt" class="MsoNormal"><span style="FONT-FAMILY: Arial"><p> </p></span></p><p/><p/><p/><p/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial">Option 2 </span></p><ul><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Beef Brisket with sweet &amp; spicy BBQ sauce</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Chicken Marbellla (marinated overnight in olives, capers, wine, &amp; brown sugar)</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Rosemary &amp; Garlic Roasted Pork Loin</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Southwest Chicken with Peach Mango Salsa</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Beef tips in Gogonzola Cream Sauce served over Bowtie pasta</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Chicken Alfredo served over bowtie pasta</span></div></li><li><div class="MsoNormal" style="TEXT-INDENT: 0in; MARGIN: 0in 0in 0pt 0.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">Chicken &amp; Wild Mushrooms in Marsala Sauce</span></div></li></ul><p><span style="FONT-FAMILY: Arial"> </span></p><p/><p/><p/><p/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial">Option 3 <p/></span></p><ul><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Herb-Encrusted Prime Beef Tenderloin with Horseradish Cream Sauce</span></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Baked Salmon with Avocado Butter</span></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Lump Crab Cakes with Remoulade Sauce</span></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Duck Breast in Port Wine Reduction </span></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Seared Ahi Tuna with Wasabi Cream Sauce</span></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"><span style="FONT-FAMILY: Arial">      Braised Beef Short Ribs with Gnochhi</span></div><span style="FONT-FAMILY: Arial"><span style="FONT-FAMILY: Arial"><p> </p></span><p/><p/><p/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial"><font size="3"><font size="2"><span style="FONT-FAMILY: Arial">Side Options (choose 2) </span></font><ul><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Roasted Rosemary Yukon Gold Potatoes</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Skin-on creamy smashed potatoes (a guest favorite!)</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Three-Cheese Scalloped Potatoes</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Custard-Style Creamy Mac &amp; Cheese</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Roasted Green Beans</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Roasted Asparagus Spears</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Seasonal Vegetables with Olive oil &amp; kosher salt</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Caramelized Brussel Sprouts</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Broccoli &amp; Cauliflower gratin</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Penne pasta in vodka cream sauce</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Gnocchi in sage butter sauce</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Rice Pilaf</span></font></div></li><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Creamy Parmesan Risotto </span></font></div></li></ul></font><p/><p><span style="FONT-FAMILY: Arial; FONT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><shapetype id="_x0000_t75"/><stroke/><path/><lock/><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><shape id="_x0000_s1026" style="Z-INDEX: -1; POSITION: absolute; TEXT-ALIGN: left; MARGIN-TOP: -0.2pt; WIDTH: 205.5pt; HEIGHT: 126pt; MARGIN-LEFT: 309.6pt; LEFT: 0px"/><imagedata src="file:///C:/Users/Deco/AppData/Local/Temp/msohtml1/01/clip_image001.jpg"/><wrap/></p><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"> </p><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><font size="2"><span style="FONT-FAMILY: Arial">Gourmet Salads – </span><i style="mso-bidi-font-style: normal"><span style="FONT-FAMILY: Arial">Available at an additional cost</span></i></font></p><ul><li><div class="MsoNormal" style="MARGIN: 0in 0in 0pt 0.25in"><font size="2"><span style="FONT-FAMILY: Arial">Spinach with Strawberries &amp; Sweet Vinaigrette</span></font></div></li><li><font size="2"><span style="FONT-FAMILY: Arial">      Mixed Greens with Tangerines, &amp; Spicy Honey Citrus vinaigrette</span></font></li><li><font size="2"><span style="FONT-FAMILY: Arial">      </span></font><font size="2"><span style="FONT-FAMILY: Arial">Arugula with Goat cheese rounds, raspberries &amp; pine nuts</span></font></li><li><font size="2"><span style="FONT-FAMILY: Arial">      </span></font><font size="2"><span style="FONT-FAMILY: Arial">Caprese Salad with Balsamic Vinaigrette <i style="mso-bidi-font-style: normal">(seasonal)</i></span></font></li><li><font size="2"><span style="FONT-FAMILY: Arial"><em>      </em></span></font><font size="2"><span style="FONT-FAMILY: Arial">Ricutti Italia <i style="mso-bidi-font-style: normal">(Traditional Italian green salad) <p/></i></span></font></li></ul><p style="MARGIN: 0in 0in 0pt 0.25in" class="MsoNormal"><span style="FONT-FAMILY: Arial"><p><font size="2"><hr/></font></p><p/><p/><p/></span></p><p/><p><font size="2"><em>Prices fluctuate with the market &amp; other factors. Please call or email us &amp; we can send you up to date pricing information.</em></font></p></span></p><p/></span></p><p/></span></li></ul><p/><div>
+</div></td><td style="WIDTH: 1%" colspan="1" rowspan="1" class="MS_WH_ZoneSpacing"/></tr></tbody></table></div>
+					</div>
+				</td>
+			</tr></table>
+			</td>
+		</tr>
+		
+		<tr>
+			<td id="IWS_WH_Elem_Footer" colspan="2" class="MS_MasterFooter">
+				<div class="MSC_FooterFrame">
+					<span id="IWS_WH_Elem_FooterLinks">
+						
+					</span>
+					<div id="IWS_WH_Elem_FooterText" class="MSC_FooterText">
+						All rights reserved
+					</div>
+				</div>
+			</td>
+		</tr>
+<tr id="ctl00_IWS_WH_Elem_Logo">
+	<td id="ctl00_IWS_WH_Elem_BottomAd" class="MS_MasterBottomAD" style="padding-top:2px">
+			    
+			</td>
+</tr>
+
+	</table>
+</form>
+
+<!-- BEGIN TRACKING CODE --> 
+                    <script type="text/javascript" language="JavaScript">
+                        var FCProAccountId = "602cdf69-e6ce-4c14-9c61-7f92eda56918";
+                        var ServerName = "decocateringkc-com.sitereports.officelive.com";
+                    </script>
+                    <script type="text/javascript" language="JavaScript" src="http://decocateringkc-com.sitereports.officelive.com/js/restats_static.js">
+                    </script>
+                    <noscript>
+                        <img src="http://decocateringkc-com.sitereports.officelive.com/FCPISAPI/ISAPIExtn.dll/i/602cdf69-e6ce-4c14-9c61-7f92eda56918/0" />
+                    </noscript>
+                <!-- END TRACKING CODE -->
+<!-- CXNID=5426436&Code=C2 --> 
+</body>
+</html>
